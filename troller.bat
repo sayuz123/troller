@@ -1,5 +1,5 @@
 @echo off
 
-start trolling.bat
+start troller.bat
 
 color C
